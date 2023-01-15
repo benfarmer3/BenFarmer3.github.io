@@ -71,7 +71,6 @@ content:
             Test Hub
               -	Tech: Python, Flask, Google cloud
               -	Developed a new test hub website collating all CI build results and allowing developers streamlining the process for viewing and downloading results.
-    content:
       - layout: left
         title: Newcastle Univercity
         link: ncl.ac.uk/
