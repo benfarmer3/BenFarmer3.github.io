@@ -124,19 +124,18 @@ content:
     content:
       - layout: top-middle
         title: Implementing cryptographic methods into the IoT
-        link: github.com/sproogen
+        link: github.com/benfarmer3/IFogSimCryptographyV1.0
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  IFogSimCryptographyV1.0
             icon: fab fa-github
             url: github.com/benfarmer3/IFogSimCryptographyV1.0
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          -	Language: Java
+          -	As part of the final year project at Newcastle University my dissertation was based on implementing cryptographic methods into the Internet of Things.
+          -	Extended the IFogSim IoT Simulator to implement encryption and description alongside digital signatures.
+           Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
 
   - title: Interests
     layout: text
