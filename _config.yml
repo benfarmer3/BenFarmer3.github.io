@@ -52,25 +52,35 @@ content:
         caption: Sep 2021 - Present
         description: |
           Cloud Migrate
-            - Tech: C#, .NET, HTML, AngularJs, Razor Pages, PowerShell, Nunit, Moq
-            - Worked on a major product for migrating user data to and from multiple different tenants.
-            -	Solely responsible for a UI overhaul to every page of the product to be more consistent with the other products within the Cloudm product range using CSS, HTML and AngularJS.
-            -	Implemented a feature to allow users to use Google JSON service account keys.
-            -	Updated implementations of basic authentication to use modern authentication.
-            -	Communicated with customers on technical support, providing information to solve their issues or log tickets within Jira to escalate and provide fixes.
-            -	Used Nunit and Moq to develop unit and integration tests.
-          Custom Software/Builds
-            - Tech: PowerShell, C# .net
-            -	Wrote PowerShell scripts for the Government of Virginia to delete 35,000+ wrongly created user contacts saving them hundreds of hours in labour time.
-            -	Reorganised 700+ users email folder structures to be compatible with Cloudm Migrate, saving the company an estimated xXXX of organizing.
-            -	Communicated with customers to get detailed requirements.  
-          Automation Tests
-            -	Tech: Python, Microsoft Graph, Selenium
-            -	Implemented standardized automation tests in Python using Selenium for Microsoft Teams migrations. 
-            -	Generated and deleted teams users along with data for each of them using the Microsoft Graph API.
-          Test Hub
-            -	Tech: Python, Flask, Google cloud
-            -	Developed a new test hub website collating all CI build results and allowing developers streamlining the process for viewing and downloading results.
+              - Tech: C#, .NET, HTML, AngularJs, Razor Pages, PowerShell, Nunit, Moq
+              - Worked on a major product for migrating user data to and from multiple different tenants.
+              -	Solely responsible for a UI overhaul to every page of the product to be more consistent with the other products within the Cloudm product range using CSS, HTML and AngularJS.
+              -	Implemented a feature to allow users to use Google JSON service account keys.
+              -	Updated implementations of basic authentication to use modern authentication.
+              -	Communicated with customers on technical support, providing information to solve their issues or log tickets within Jira to escalate and provide fixes.
+              -	Used Nunit and Moq to develop unit and integration tests.
+            Custom Software/Builds
+              - Tech: PowerShell, C# .net
+              -	Wrote PowerShell scripts for the Government of Virginia to delete 35,000+ wrongly created user contacts saving them hundreds of hours in labour time.
+              -	Reorganised 700+ users email folder structures to be compatible with Cloudm Migrate, saving the company an estimated xXXX of organizing.
+              -	Communicated with customers to get detailed requirements.  
+            Automation Tests
+              -	Tech: Python, Microsoft Graph, Selenium
+              -	Implemented standardized automation tests in Python using Selenium for Microsoft Teams migrations. 
+              -	Generated and deleted teams users along with data for each of them using the Microsoft Graph API.
+            Test Hub
+              -	Tech: Python, Flask, Google cloud
+              -	Developed a new test hub website collating all CI build results and allowing developers streamlining the process for viewing and downloading results.
+    content:
+      - layout: left
+        title: Newcastle Univercity
+        link: ncl.ac.uk/
+        # link_text: boringcompany.com
+        sub_title: Computer Science And Mathematics Tutor
+        caption: Sep 2021 - Aug 2021
+        description: |
+          
+  
 
 
 
