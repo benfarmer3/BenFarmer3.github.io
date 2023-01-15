@@ -73,10 +73,11 @@ content:
             -	Implemented standardized automation tests in Python using Selenium for Microsoft Teams migrations. 
             -	Generated and deleted teams users along with data for each of them using the Microsoft Graph API.
 
-            
+
           Test Hub
             -	Tech: Python, Flask, Google cloud
             -	Developed a new test hub website collating all CI build results and allowing developers streamlining the process for viewing and downloading results.
+
       - layout: left
         title: Newcastle Univercity
         link: ncl.ac.uk
@@ -84,8 +85,23 @@ content:
         sub_title: Programming And Mathematics Tutor
         caption: Sep 2021 - Aug 2021
         description: |
-          
-  
+        Tutoring
+        - Taught mathematics and programming concepts on a drop-in one-to-one basis, helping to upskill first year Computer Sciences students
+
+      - layout: left
+        title: Cubic
+        link: Cubic.com
+        # link_text: boringcompany.com
+        sub_title: Software Developer Placement 
+        caption: Jul 2019 - Jun 2020
+        description: |
+          Contactless Card Payment Systems
+          -	Tech: C#, C++
+          -	Wrote a C# .net application, enabling the team to communicate with new devices using older testing software, processing and validating over 4000 commands a minute saving £80,000 in alternative software.
+          -	Expanded application to be utilized within unit tests, writing over 300 new tests for the new devices ensuring backwards compatibility with old devices during future development. 
+          -	Conducted over 2000 in house initial tests on new devices for level three EMV certification, made possible by the new application. 
+          -	Improved software quality for codebase by establishing a C++ unit test suite that ran during Jenkins builds.
+
 
 
 
@@ -93,15 +109,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Newcastle Univercity
+        caption: 2017 - 2021
+        sub_title: BSc Computer Science with Placement
+        description: |
+          - Final Grade : First
+          Relevant Modules
+          -	Languages: Java, C, C++, HTML, CSS, JavaScript, SQL, Assembly. 
+          -	Programming 1 & 2 (Covering Data Structures and OOP fundamentals), Databases, Distributed systems
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
